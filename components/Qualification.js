@@ -151,7 +151,7 @@ const Qualification = () => {
                     <h3 className="qualification__title">Software Developer</h3>
                     <span className="qualification__subtitle">SNP Technologies Inc., Hyderabad</span>
                     <div className="qualification__calender">
-                      <i className="uil uil-calender-alt"></i> Sep, 2023 - Present
+                      <i className="uil uil-calender-alt"></i> Sep, 2023 - Feb, 2026
                     </div>
                   </div>
                   <div>
